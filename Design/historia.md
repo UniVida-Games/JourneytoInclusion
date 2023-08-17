@@ -1,3 +1,4 @@
+# Historia
 Num mundo diverso, onde pessoas de todos os cantos vivem suas vidas, cinco destinos se entrelaçam de maneira inesperada. Kazi, Li Wei, Sofia, Aiden, Leila e Alex, aparentemente desconhecidos entre si, partilham uma característica que transcende suas origens: cada um deles enfrenta preconceitos e obstáculos diários devido às suas deficiências.
 
 Nas vastas planícies da África, Kazi trabalha incansavelmente em sua oficina, onde cria próteses para os necessitados. No outro lado do mundo, em uma remota aldeia asiática, Li Wei compartilha sua paixão pela música com crianças com deficiência visual, mostrando-lhes que o mundo das melodias é acessível a todos.
