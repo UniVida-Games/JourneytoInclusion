@@ -1,0 +1,13 @@
+Num mundo diverso, onde pessoas de todos os cantos vivem suas vidas, cinco destinos se entrelaçam de maneira inesperada. Kazi, Li Wei, Sofia, Aiden, Leila e Alex, aparentemente desconhecidos entre si, partilham uma característica que transcende suas origens: cada um deles enfrenta preconceitos e obstáculos diários devido às suas deficiências.
+
+Nas vastas planícies da África, Kazi trabalha incansavelmente em sua oficina, onde cria próteses para os necessitados. No outro lado do mundo, em uma remota aldeia asiática, Li Wei compartilha sua paixão pela música com crianças com deficiência visual, mostrando-lhes que o mundo das melodias é acessível a todos.
+
+Enquanto isso, na América do Sul, Sofia defende a linguagem de sinais mágicos, organizando workshops que conectam pessoas surdas e ouvintes numa expressão artística única. Na Europa, Aiden desafia as barreiras acadêmicas, contribuindo para a ciência de formas que sua deficiência cognitiva jamais impediu. Na Oceania, Leila trabalha para criar uma rede de apoio para aqueles que enfrentam batalhas silenciosas contra a saúde mental. E na America, Alex, uma jovem aventureira, apesar de usar uma cadeira de rodas, Alex transformou-a numa cadeira off-road para explorar trilhos de montanha e terrenos acidentados. A energia e determinação de Alex destacam-se, assim como a sua dedicação em promover a acessibilidade em espaços naturais.
+
+Um encontro casual durante uma conferência global de inclusão acende a chama do destino. Compartilhando suas histórias e desafios, eles percebem que, apesar das diferenças culturais e geográficas, têm muito em comum. Cada um deles carrega uma determinação feroz de superar as limitações impostas pelos preconceitos da sociedade.
+
+Decidem unir forças para enfrentar os preconceitos que todos eles conhecem muito bem. O objetivo é claro: criar uma mudança real no mundo, mostrando que as deficiências não definem uma pessoa e que todos têm um papel fundamental a desempenhar na sociedade.
+
+Os cinco heróis estabecem os alicerces da sua missão. Compartilham conhecimento, experiência e, acima de tudo, uma visão comum de um mundo mais inclusivo. A jornada que se avizinha não será fácil, mas estão determinados a enfrentar os obstáculos e desafios com coragem e empatia.
+
+A busca pela derrota dos preconceitos começa agora, enquanto o grupo se prepara para embarcar numa jornada que testará suas forças, desafiará as normas sociais e inspirará mudanças que ecoarão através das gerações. Unidos por um objetivo comum, Kazi, Li Wei, Sofia, Aiden, Leila e Alex estão prontos para transformar o mundo, um passo de cada vez.
