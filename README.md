@@ -54,44 +54,44 @@ História: Aiden é um investigador científico dedicado que vive com uma defici
 
 # Inimigos
 
-**Preconceito:** Desafio da Percepção Limitada
-**Inimigo:** Valentina, a Cética
+**Preconceito:** Desafio da Percepção Limitada\
+**Inimigo:** Valentina, a Cética\
 **Características:** Valentina é uma pessoa cética que constantemente subestima as habilidades das personagens devido às suas deficiências. Ela duvida da capacidade das personagens de contribuir para a missão e tenta desencorajá-las. Valentina age com um tom condescendente e está sempre pronta para apontar falhas.
 
-**Preconceito:** Barreiras de Acessibilidade
-**Inimigo:** Arnold, o Arquiteto Insensível
+**Preconceito:** Barreiras de Acessibilidade\
+**Inimigo:** Arnold, o Arquiteto Insensível\
 **Características:** Arnold é um arquiteto insensível que desenha edifícios sem considerar a acessibilidade. Ele não se preocupa com rampas para cadeiras de rodas, elevadores ou sinais táteis. Arnold defende suas decisões com justificativas superficiais e se recusa a reconhecer a importância da acessibilidade.
 
-**Preconceito:** Estereótipos Enraizados
-**Inimigo:** Estela, a Estereotipadora
+**Preconceito:** Estereótipos Enraizados\
+**Inimigo:** Estela, a Estereotipadora\
 **Características:** Estela é uma pessoa que perpetua estereótipos em relação às deficiências das personagens. Ela age de forma condescendente, referindo-se a eles em termos limitativos. Estela representa a mentalidade que minimiza as realizações das personagens, baseando-se em preconceitos.
 
-**Preconceito:** Exclusão Social
-**Inimigo:** Ronaldo, o Exclusivista
+**Preconceito:** Exclusão Social\
+**Inimigo:** Ronaldo, o Exclusivista\
 Características: Ronaldo é um organizador de eventos sociais que exclui intencionalmente as personagens com deficiência. Ele nega convites para eventos, restringe oportunidades e discrimina com base nas deficiências. Ronaldo se esforça para manter seu círculo social restrito.
 
-**Preconceito:** Falta de Representação
-**Inimigo:** Margaret, a Ignorante Midiática
+**Preconceito:** Falta de Representação\
+**Inimigo:** Margaret, a Ignorante Midiática\
 **Características:** Margaret é uma personalidade midiática ignorante que perpetua a falta de representação das pessoas com deficiência. Ela faz comentários insensíveis em programas de mídia e redes sociais, contribuindo para a desinformação e reforçando estereótipos.
 
-**Preconceito:** Dificuldades no Local de Trabalho
-**Inimigo:** Alan, o Ignorante do Escritório
+**Preconceito:** Dificuldades no Local de Trabalho\
+**Inimigo:** Alan, o Ignorante do Escritório\
 **Características:** Alan é um colega de trabalho ignorante que não compreende as necessidades das personagens. Ele faz piadas insensíveis e não se preocupa com a acessibilidade do local de trabalho. Alan cria um ambiente de trabalho hostil e desafiador.
 
-**Preconceito:** Bullying e Discriminação
-**Inimigo:** Bianca, a Bully
+**Preconceito:** Bullying e Discriminação\
+**Inimigo:** Bianca, a Bully\
 **Características:** Bianca é uma pessoa que pratica bullying e discriminação ativamente contra as personagens. Ela zomba das deficiências, faz comentários humilhantes e tenta isolar as personagens. Bianca age de maneira cruel e insensível.
 
-Preconceito: Dificuldades nas Viagens
-**Inimigo:** Thomas, o Inflexível do Transporte
+**Preconceito:** Dificuldades nas Viagens\
+**Inimigo:** Thomas, o Inflexível do Transporte\
 **Características:** Thomas é um funcionário de transporte público que não considera as necessidades das pessoas com deficiência. Ele se recusa a fornecer assistência, ignora solicitações especiais e cria obstáculos desnecessários para as personagens ao viajar.
 
-**Preconceito:** Luta por Direitos e Inclusão
-**Inimigo:** Jessica, a Burocrata Resistente
+**Preconceito:** Luta por Direitos e Inclusão\
+**Inimigo:** Jessica, a Burocrata Resistente\
 **Características:** Jessica é uma burocrata resistente que trava uma batalha contra as ações das personagens em busca de melhorias de acessibilidade. Ela cria obstáculos burocráticos, desacelera os processos e resiste a mudanças significativas.
 
-**Preconceito:** Falta de Conhecimento
-**Inimigo:** Eduardo, o Desinformado
+**Preconceito:** Falta de Conhecimento\
+**Inimigo:** Eduardo, o Desinformado\
 **Características:** Eduardo é uma pessoa desinformada que não entende as deficiências das personagens. Ele faz comentários inadvertidamente insensíveis, baseados em equívocos sobre as deficiências. Eduardo representa a necessidade de educação constante sobre o assunto.
 # Historia
 Num mundo diverso, onde pessoas de todos os cantos vivem suas vidas, cinco destinos se entrelaçam de maneira inesperada. Kazi, Li Wei, Sofia, Aiden, Leila e Alex, aparentemente desconhecidos entre si, partilham uma característica que transcende suas origens: cada um deles enfrenta preconceitos e obstáculos diários devido às suas deficiências.
