@@ -126,3 +126,6 @@ Cada personagem tem um conjunto de prós e contras baseada na sua incapacidade. 
 ![TerceiraJogada](./Design/Mecanica/imagens/terceirajogada.png)\
 ![QuartaJogada](./Design/Mecanica/imagens/quartajogadas.png)\
 ![QuintaJogada](./Design/Mecanica/imagens/quintajogadas.png)
+![SextaJogada](./Design/Mecanica/imagens/sectajogada.png)
+![SetimaJogada](./Design/Mecanica/imagens/setimajogada.png)
+![OitavaJogada](./Design/Mecanica/imagens/oitavajogada.png)
