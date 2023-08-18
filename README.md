@@ -112,7 +112,7 @@ Os tiles são o coração do jogo, formando o caminho que os jogadores percorrem
 - **Começo do Jogo:** O jogador inicial retira um tile e coloca-o de forma a conectar com uma das portas do tile "Inicio" no tabuleiro. O jogador seguinte, por sua vez, pode tirar um tile do monte ou optar por virar o tile colocado pelo jogador anterior.
 - **Construção do Caminho:** Os jogadores alternam entre colocar tiles no tabuleiro, garantindo que as portas se conectem de forma coerente. Cada novo tile deve ser alinhado com as portas existentes.
 - **Enfrentar Desafios e Bónus:** Quando um jogador coloca um tile "Desafio", ele enfrenta um desafio específico. Caso um tile "Bónus" seja colocado, o jogador pode retirar uma carta de bónus.
-- **Movimentação das Personagens:** Os jogadores movem os seus marcadores de personagem de acordo com os tiles que colocaram. A movimentação depende do número de portas disponíveis em cada tile.
+- **Movimentação das Personagens:** Os jogadores movem os seus marcadores de personagem de acordo com os tiles que colocaram. A movimentação depende do número de portas disponíveis em cada tile, sendo que cada personagem apenas se pode mover 3 tiles por jogada.
 
 ## Objetivo do Jogo:
 O objetivo do jogo é avançar pelo caminho, enfrentando desafios, tirando partido dos bónus e construindo uma narrativa inclusiva. Os jogadores trabalham em conjunto para criar um caminho contínuo e resolver desafios, aprendendo a superar obstáculos como uma equipa. A vitória é alcançada quando todos preconceitos/desafios forem eliminados. O jogo acaba se um das personagens for eliminada.
@@ -129,3 +129,45 @@ Cada personagem tem um conjunto de prós e contras baseada na sua incapacidade. 
 ![SextaJogada](./Design/Mecanica/imagens/sectajogada.png)
 ![SetimaJogada](./Design/Mecanica/imagens/setimajogada.png)
 ![OitavaJogada](./Design/Mecanica/imagens/oitavajogada.png)
+
+## Habilidades Das Personagens
+
+### Aiden (Deficiência Cognitiva)
+- **Vantagens:**
+    - Não perde pontos de vida quando enfrenta um desafio. 
+- **Desvantagens:**
+    - Perde 3 pontos de vida sempre que outra personagem perder um desafio
+
+### Li Wei (Deficiência Visual)
+- **Vantagens:**
+    - não pode escolher sua localização no mapa de tiles, os outros jogadores escolheram por ele, refletindo sua limitação de percepção. 
+- **Desvantagens:**
+    - Ela tem a habilidade especial de "Tocar e Conhecer". Quando ela joga um tile, ela pode virar dois tiles do monte e escolher qual deles jogar virado para cima. Isso representa sua capacidade de usar o tato para tomar decisões informadas.
+
+### Sofia (Deficiência Auditiva)
+- **Vantagens:**
+    - Sofia não pode comunicar diretamente com os outros jogadores durante o jogo, representando a sua surdez.
+- **Desvantagens:** 
+    - Ela tem a habilidade especial "Linguagem Gestual". Quando coloca um tile "Caminho", Sofia pode escolher revelar um tile adicional do monte e mostrá-lo aos outros jogadores, comunicando informações sem usar palavras.
+
+### Kazi (Deficiência Física)
+- **Vantagens:**
+    - Devido à sua deficiência física, Kazi tem um alcance limitado ao colocar tiles. Ele só pode colocar tiles que estejam a até duas casas de distância da sua posição atual. 
+- **Desvantagens:**
+    - No entanto, Kazi possui a habilidade única "Construtor Adaptado". Quando coloca um tile "Desafio", ele pode adicionar um marcador "Ponte" no tile, permitindo que os jogadores evitem o desafio ao passar por ele.
+
+### Alex (Deficiência de Mobilidade)
+- **Vantagens:**
+    - Alex pode mover-se apenas 2 casas de cada vez no tabuleiro, representando a limitação de sua mobilidade. 
+- **Desvantagens:**
+    - Ela possui a habilidade única de "Exploração Adaptada". Alex pode escolher parar em uma casa desafio sem ter que enfrentá-lo imediatamente, permitindo-lhe avaliar a situação antes de prosseguir.
+
+### Leila (Doença Mental)
+- **Vantagens:**
+    - Leila é um suporte emocional para a equipa. Ela tem a habilidade especial "Apoio Empático". Sempre que um jogador perder pontos de vida após um desafio, Leila pode oferecer palavras de encorajamento, permitindo que o jogador perca 1 ponto de vida a menos do que o resultado do dado.
+    
+- **Desvantagens:**
+    - No entanto, Leila tem a habilidade especial "Sobrecarga Emocional". Sempre que um jogador perder um desafio, Leila perde 1 ponto de vida adicional, representando o impacto emocional que a situação tem sobre ela.
+    - Leila não pode enfrentar desafios, representando a sua doença mental.
+
+
