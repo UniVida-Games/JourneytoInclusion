@@ -104,7 +104,10 @@ Os tiles são o coração do jogo, formando o caminho que os jogadores percorrem
 - **Desafio:** Quando virado, o jogador enfrentará um desafio específico, também com de 1 a 4 portas.
 - **Bónus:** Quando virado, o jogador pode retirar uma carta de bónus e contém de 1 a 4 portas.
 
+
 ![TiposTiles](Design/Mecanica/imagens/tiposdetile.png)
+
+Os tiles estao todos num monte, virados para baixo e aleatoriamente distruibuidos, com exceção do tile "Inicio", que é colocado no centro do tabuleiro. Os tiles são retirados do monte e colocados no tabuleiro, de forma a conectar as portas de forma coerente. Cada novo tile deve ser alinhado com as portas existentes.
 
 ## Sequência de Jogo
 
