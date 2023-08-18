@@ -138,7 +138,7 @@ Cada personagem tem um conjunto de prós e contras baseada na sua incapacidade. 
 - **Desvantagens:**
     - Perde 3 pontos de vida sempre que outra personagem perder um desafio
 
-### Aisha (Deficiência Visual)
+### Li Wei (Deficiência Visual)
 - **Vantagens:**
     - não pode escolher sua localização no mapa de tiles, os outros jogadores escolheram por ele, refletindo sua limitação de percepção. 
 - **Desvantagens:**
