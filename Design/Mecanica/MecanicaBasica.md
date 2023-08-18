@@ -31,8 +31,8 @@ O objetivo do jogo é avançar pelo caminho, enfrentando desafios, tirando parti
 Cada personagem tem um conjunto de prós e contras baseada na sua incapacidade. Todas as personagens tem 15 pontos de vida. Sempre que um desafio não é superado os jogadores envolvidos lançam um dado e perdem os pontos de vida que sai nos dados.
 
 ## Exemplo basico de jogo
-![PrimeiraJogada](Design/Mecanica/imagens/PrimeiraJogada.png)\
-![SegundaJogada](Design/Mecanica/imagens/segundajogada.png)\
-![TerceiraJogada](Design/Mecanica/imagens/terceirajogada.png)\
-![QuartaJogada](Design/Mecanica/imagens/quartajogadas.png)\
-![QuintaJogada](Design/Mecanica/imagens/quintajogadas.png)\
+![PrimeiraJogada](./imagens/PrimeiraJogada.png)\
+![SegundaJogada](./imagens/segundajogada.png)\
+![TerceiraJogada](./imagens/terceirajogada.png)\
+![QuartaJogada](./imagens/quartajogadas.png)\
+![QuintaJogada](./imagens/quintajogadas.png)\
