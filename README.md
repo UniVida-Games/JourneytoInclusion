@@ -71,8 +71,8 @@ História: Aiden é um investigador científico dedicado que vive com uma defici
 Características: Ronaldo é um organizador de eventos sociais que exclui intencionalmente as personagens com deficiência. Ele nega convites para eventos, restringe oportunidades e discrimina com base nas deficiências. Ronaldo se esforça para manter seu círculo social restrito.
 
 **Preconceito:** Falta de Representação\
-**Inimigo:** Margaret, a Ignorante Midiática\
-**Características:** Margaret é uma personalidade midiática ignorante que perpetua a falta de representação das pessoas com deficiência. Ela faz comentários insensíveis em programas de mídia e redes sociais, contribuindo para a desinformação e reforçando estereótipos.
+**Inimigo:** Jude, a Ignorante Midiática\
+**Características:** Jude é uma personalidade midiática ignorante que perpetua a falta de representação das pessoas com deficiência. Ela faz comentários insensíveis em programas de mídia e redes sociais, contribuindo para a desinformação e reforçando estereótipos.
 
 **Preconceito:** Dificuldades no Local de Trabalho\
 **Inimigo:** Alan, o Ignorante do Escritório\
@@ -216,3 +216,55 @@ Cada personagem tem um conjunto de prós e contras baseada na sua incapacidade. 
     - Leila não pode enfrentar desafios, representando a sua doença mental.
 
 
+## Inimigos Mecanica e habilidades
+
+### Personagens
+
+O jogo tem 2 lotes de cartas, o lote das pequenas com as cartas com pontuação de 2 a 5 e o lote das grandes com as cartas de 6 a 10.
+Sempre que uma personagem vai jogar contra um inimigo ela tem uma mecânica baseada na sua deficiência para sacar e jogar as cartas.\
+Para eleminar cada inimigo a soma das cartas jogadas, cada jogador apenas pode jogar combinações de 3 cartas, tem de ser igual ou superior ao número de pontos de vida do inimigo.
+
+**A personagem invisual:** pode ir buscar as 5 cartas ao baralho das grandes, mais 4 extra do baralho de cartas pequenas, Mas ela não pode ver as cartas que joga, ou seja tem de baralhar as 9 cartas e escolher 4 com a face voltada para baixo.\
+
+**A personagem com deficiência auditiva:** pode ir buscar as 5 cartas ao lote das grandes mas terá de dizer aos outros jogadores que cartas vai jogar através de mímica, sendo que se os jogadores disserem uma carta errada, caso a personagem tenha essa carta é obrigada a jogada essa carta, se não tiver podem tentar outra vez, caso falhem vão buscar a primeira carta do baralho das pequenas e jogam essa carta.
+
+**Personagem com deficiência cognitiva** esta personagem vai buscar 5 cartas ao baralho das grandes e escolhe 4 cartas para jogar mas por cada carta jogada lança um dado numerado de 1 a 4, o resultado do lançamento do dado vai ser descontado no valor da carta.
+
+**Personagem com deficiência física:** esta personagem vai buscar 3 cartas ao baralho das pequenas e 2 aos das grandes e acrescenta 2 contos a cada uma das 3 cartas que vai jogar.
+
+**Personagem com deficiência mental:** esta personagem vai buscar 5 cartas ao baralho das pequenas, refletindo a sua falta de confiança.
+Mas caso tenho um jogador a jogar o mesmo desafio soma 4 pontos a duas das três cartas que vai jogar.
+
+**Personagem com Deficiência de Mobilidade:** pode escolher 3 cartas do lote das pequenas e 2 cartas do lote das grandes. Além disso, Alex pode escolher um jogador para "empurrar" sua cadeira de rodas virtualmente no tabuleiro, o que concede um bônus de 2 pontos extras a cada uma das 3 cartas jogadas contra o inimigo.
+
+### Inimigos
+
+**Desafio da Percepção Limitada - Valentina, a Cética**\
+Valentina pode diminuir temporariamente o valor das cartas jogadas pelas personagens. Por exemplo, quando as personagens jogam cartas contra Valentina, o valor total das cartas pode ser reduzido em 1 ou 2 pontos, representando a dúvida e subestimação que ela lança sobre as personagens.
+
+**Barreiras de Acessibilidade - Arnold, o Arquiteto Insensível**\
+Arnold pode adicionar "barreiras" ao campo de jogo, reduzindo temporariamente o valor das cartas jogadas. Para superar essas barreiras, as personagens precisam jogar cartas extras ou fazer um esforço adicional para compensar a falta de acessibilidade.
+
+**Estereótipos Enraizados - Estela, a Estereotipadora**\
+Quando as personagens jogam cartas contra Estela, ela pode influenciar negativamente a escolha das cartas. Por exemplo, ela pode escolher aleatoriamente uma das cartas jogadas e reduzir seu valor pela metade, representando o impacto dos estereótipos nas ações das personagens.
+
+**Exclusão Social - Ronaldo, o Exclusivista**\
+Ronaldo pode "excluir" uma das personagens do jogo por um turno, representando a discriminação. A personagem excluída não pode jogar cartas contra o inimigo, mas ainda pode jogar cartas para ajudar os outros jogadores.
+
+**Falta de Representação - Jude, a Ignorante Midiática**\
+Jude pode influenciar negativamente a eficácia das cartas jogadas pelas personagens. Ela pode escolher uma carta jogada e reduzir seu valor em uma quantidade fixa, simbolizando a desinformação que ela dissemina. Por exemplo, ela pode reduzir o valor de uma carta em 2 pontos, representando a falta de representação das pessoas com deficiência na mídia.
+ 
+**Dificuldades no Local de Trabalho - Alan, o Ignorante do Escritório**\
+Alan pode adicionar "obstáculos" que as personagens devem superar para jogar suas cartas. Isso pode envolver jogar cartas extras ou perder pontos de vida adicionais, refletindo o ambiente hostil criado por ele. Por exemplo, ele pode adicionar um obstáculo que exige que as personagens joguem uma carta extra para superá-lo, ou ele pode adicionar um obstáculo que faz com que as personagens percam 1 ponto de vida adicional, representando o impacto emocional de suas ações.
+
+**Bullying e Discriminação - Bianca, a Bully**\
+Bianca pode escolher uma das personagens e reduzir temporariamente o valor da soma das cartas jogadas por essa personagem. Isso representa o impacto emocional do bullying e da discriminação. Para isso é lancado um lado de 4 faces e o resultado é o número de pontos que a personagem vai perder.
+
+**Dificuldades nas Viagens - Thomas, o Inflexível do Transporte**\
+Thomas pode bloquear ações das personagens, forçando-as a "esperar" por um turno, representando obstáculos no transporte. As personagens "perdem" um turno ao enfrentar Thomas. Nessa estera a personagem perde 3 pontos de vida.
+
+**Luta por Direitos e Inclusão - Jessica, a Burocrata Resistente**\
+Jessica obriga a personagem a tirar 6 cartas do baralho das grandes mas o jogador apenas pode jogar 2 cartas.
+
+**Falta de Conhecimento - Eduardo, o Desinformado**\
+Quando as personagens jogam cartas contra Eduardo, ele pode escolher uma carta jogada e adicionar um valor aleatório, representando a influência de comentários insensíveis baseados na falta de conhecimento.
